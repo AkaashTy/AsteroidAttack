@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 56888b11bf87bbb47836851a4462fbb1
+timeCreated: 1485781140
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: cheeseusaceu
+  fontNames:
+  - cheeseusaceu
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
