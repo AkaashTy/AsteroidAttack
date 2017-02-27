@@ -1,0 +1,30 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\moveShip.cs">
+    <Files>
+      <File FileName="Assets\Scripts\moveAsteroid.cs" Line="61" Column="26" />
+      <File FileName="Assets\Scripts\explode.cs" Line="20" Column="24" />
+      <File FileName="Assets\Scripts\SoundState.cs" Line="20" Column="3" />
+      <File FileName="Assets\Scripts\clickButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameState.cs" Line="43" Column="21" />
+      <File FileName="Assets\Scripts\moveShip.cs" Line="30" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AsteroidAttack" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="moveShip.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
